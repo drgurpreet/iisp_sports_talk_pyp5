@@ -1,0 +1,166 @@
+---
+title: "How Physiotherapy Helps Athletes Express Themselves"
+subtitle: "Grade 5 PYP | Real-world connection with a Physiotherapist"
+author: "Dr Prabhjot Kaur, Physiotherapist"
+format: 
+  revealjs:
+    theme: solarized
+    slide-number: true
+    transition: slide
+    chalkboard: true
+    toc: false
+    toc-depth: 2
+    self-contained-math: true
+    logo: "physio-logo.jpeg"  # optional
+    footer: "Exploring the role of physiotherapy in sports"
+    
+editor: visual
+---
+
+# What Is Physiotherapy? 🧠💪
+
+## What Is Physiotherapy? 🧠💪
+
+-   **Physiotherapy**, also known as **physical therapy**, is a health profession that uses physical methods to treat pain, improve movement, and restore function. It can help with injuries, illnesses, and disabilities.
+
+-   The word “**physiotherapy**” comes from the Greek words “`phusis`” meaning nature, and “`therapia`” meaning healing.
+
+## What Is Physiotherapy? 🧠💪
+
+-   Physiotherapy helps people move better and feel better
+-   Physiotherapy use various techniques like:
+    -   Exercise Therapy
+    -   Massage Therapy
+    -   Manual Therapy
+    -   Heat, cold, electrical currents, or ultrasound
+    -   Patient education and advice Assistive devices
+
+# Activity Time! 🕵️‍♀️
+
+## ![](computer.png){fig-align="center"}
+
+## ![](phone.jpg){fig-align="center"}
+
+## ![](studying.jpg){fig-align="center"}
+
+## ![](tabs.webp){fig-align="center"}
+
+## ![](laptop.webp){fig-align="center"}
+
+# Physiotherapy in Sports
+
+🏃‍♂️🏋️‍♀️⚽
+
+## Physiotherapy in Sports 🏃‍♂️🏋️‍♀️⚽
+
+-   Sports physiotherapy is a specialized branch of physiotherapy focusing on helping athletes to:-
+    -   **Prevent injuries**
+    -   **Recover from injuries**
+    -   **Improve performance**
+    -   **Stay confident and resilient**
+
+# What is sports injury? 🧠
+
+## What is sports injury? 🧠
+
+-   Sports injuries are injuries that occur during sports or physical activities
+
+-   Encompassing a range of conditions from sprains and strains to fractures and dislocations
+
+-   Often caused by overuse, trauma, or improper technique.
+
+## Examples of sports injuries
+
+![](cricket.jpg){fig-align="center"}
+
+## Examples of sports injuries
+
+![](swimming.jpg){fig-align="center"}
+
+## Examples of sports injuries
+
+![](football.jpg){fig-align="center"}
+
+# How to prevent sport injuries?
+
+## How to prevent sport injuries?
+
+![](prevention.jpg){fig-align="center"}
+
+# Management of Sports Injuries
+
+## Management of Sports Injuries
+
+![](rice.jpeg){fig-align="center"}
+
+## Management of Sports Injuries
+
+::::: columns
+::: {.column width="50%"}
+![](cryo1.jpeg)
+
+`Walk-in cold rooms!!`
+:::
+
+::: {.column width="50%"}
+![](cryo2.jpg) `Freezing tanks!!`
+:::
+:::::
+
+**Who wants to go??**
+
+## Management of Sports Injuries
+
+::::: columns
+::: {.column width="50%"}
+![](swim1.jpg)
+:::
+
+::: {.column width="50%"}
+![](hydro.png)
+:::
+:::::
+
+## Management of Sports Injuries
+
+::::: columns
+::: {.column width="50%"}
+![](ultras.jpg)
+:::
+
+::: {.column width="50%"}
+![](tens.png)
+:::
+:::::
+
+# Kinesology and Biomechanics of walking and running
+
+## Let's Reflect 🤔
+
+💬 What would you do if your friend got injured in a game?
+
+💬 What would you do to prevent injuries in a game?
+
+## Your Turn! 🗣️
+
+### Q&A Time
+
+-   Curious about any injuries?
+-   Want to learn a cool recovery tip?
+-   Have you ever needed physiotherapy?
+
+------------------------------------------------------------------------
+
+## Final Thought 💬
+
+> “It’s not just about winning – it’s about growing, healing, and being your best.”
+
+👟🌱💪
+
+------------------------------------------------------------------------
+
+## Thank You! 🙏
+
+### You can be an inspiration in sports and beyond!
+
+**Stay active. Stay kind. Stay strong.**
